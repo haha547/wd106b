@@ -1,0 +1,38 @@
+body
+{
+	background-color : #eeeeee;
+}
+h1
+{
+	color : green;
+	text-align:center;
+	font-weight:bold;
+	font-family:DFKai-SB;
+	font-size:48px;
+}
+#para1
+{
+	color : blue;
+	font-size:36px;
+	font-family:DFKai-SB;
+	font-weight:bold;
+}
+#para2
+{
+	color : black;
+	font-size:20px;
+	font-family:DFKai-SB;
+	font-weight:bold;
+}
+a
+{
+	text-decoration:none;
+	color : blue;
+	font-size:36px;
+	font-family:DFKai-SB;
+	font-weight:bold;
+}
+a:link {color:#000000;}
+a:visited {color:#00FF00;}
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
